@@ -1,0 +1,79 @@
+ $Rev:: 1450     $  $Date:: 2018-01-17#$                             1 0  0
+ 3.009000+3 8.949250+0         -1          0          0          1  22 1451
+ 0.000000+0 1.000000+0          0          0          0          6  22 1451
+ 0.000000+0 0.000000+0          0          0          4          8  22 1451
+ 0.000000+0 0.000000+0          0          0         48          2  22 1451
+  3-Li-  9 HAR+WIN    EVAL-APR92 A.L. NICHOLS                       22 1451
+ NDS 148, 1 (2018)    DIST-FEB18                       20111222     22 1451
+----ENDF/B-VIII.0     MATERIAL   22                                 22 1451
+-----RADIOACTIVE DECAY DATA                                         22 1451
+------ENDF-6 FORMAT                                                 22 1451
+******************************************************************  22 1451
+**             JEFF-3.11 Radioactive Decay Data File            **  22 1451
+**          Compiled for the NEA Data Bank - Nov 2007           **  22 1451
+**             Original data taken from:  UKPADD67              **  22 1451
+******************************************************************  22 1451
+      F.AJZENBERG-SELOVE            NUCL PHYS A320(1979)1           22 1451
+      F.AJZENBERG-SELOVE            NUCL PHYS A413(1984)1           22 1451
+      F.AJZENBERG-SELOVE            NUCL PHYS A490(1988)1           22 1451
+      Y.S.CHEN ET AL                NUCL PHYS A146(1970)136         22 1451
+      T.BJORNSTAD ET AL             NUCL PHYS A359(1981)1           22 1451
+      M.LANGEVIN ET AL              NUCL PHYS A366(1981)449         22 1451
+                                                                    22 1451
+          LI-9 UNDERGOES BETA DECAY TO THE GROUND STATE OF          22 1451
+      BE-9(STABLE) AND A NUMBER OF EXCITED LEVELS OF BE-9 THAT      22 1451
+      UNDERGO SUBSEQUENT DECAY VIA DELAYED NEUTRON EMISSION.        22 1451
+      WHILE ALL OF THE BETA-PARTICLE TRANSITIONS ARE LISTED IN      22 1451
+      THE DATA FILE, THERE ARE A NUMBER OF DIFFICULTIES IN          22 1451
+      DEFINING THE FULL DECAY OF THE EXCITED LEVELS OF BE-9.        22 1451
+      DETAILED FEATURES OF THE DELAYED NEUTRON EMISSIONS HAVE       22 1451
+      BEEN REPORTED BY LANGEVIN ET AL (2429 AND 2780KEV LEVEL       22 1451
+      DECAYS SPLIT INTO 0.02 AND 0.32, AND 0.03 AND 0.07 TO THE     22 1451
+      GROUND AND ILL-DEFINED EXCITED STATES OF BE-8 RESPECTIVELY),  22 1451
+      HENCE CANNOT BE LISTED IN SUCH DETAIL IN ENDF FORMAT.         22 1451
+          IT SHOULD ALSO BE NOTED THAT BE-8 DECAYS VIA ALPHA        22 1451
+      EMISSION (CONTAINED WITHIN BE-8 DATA FILE).                   22 1451
+                                                                    22 1451
+                                                                    22 1451
+      MEAN BETA- ENERGIES:-                                         22 1451
+   END POINT(MEV)= 2.3200  SHAPE= 0  MEAN= 0.9962  INT= 0.0400      22 1451
+   END POINT(MEV)= 5.6700  SHAPE= 0  MEAN= 2.6239  INT= 0.0150      22 1451
+   END POINT(MEV)=10.8300  SHAPE= 0  MEAN= 5.1776  INT= 0.1000      22 1451
+   END POINT(MEV)=11.1770  SHAPE= 0  MEAN= 5.3497  INT= 0.3400      22 1451
+   END POINT(MEV)=13.6060  SHAPE= 0  MEAN= 6.5550  INT= 0.5050      22 1451
+                                                                    22 1451
+      MEAN BETA- ENERGY              =   5696.2510  KEV             22 1451
+      BETA- + NEUTRINO ENERGY        =  11932.0596  KEV             22 1451
+      INTERNAL BREMSSTRAHLUNG ENERGY =     29.8957  KEV             22 1451
+                                                                    22 1451
+      DECAY SCHEME IS INCOMPLETE : LACK OF NEUTRON DATA             22 1451
+      MEAN ENERGIES DERIVED FROM THE                                22 1451
+      PARTIAL DECAY SCHEME                                          22 1451
+                                                                    22 1451
+   ENDF/B-VI DATA PRODUCED BY COGEND (A.TOBIAS DEC-1990).           22 1451
+                                1        451         54          1  22 1451
+                                8        457         18          1  22 1451
+ 0.000000+0 0.000000+0          0          0          0          0  22 1  0
+                                                                    22 0  0
+3.00900E+038.94925E+00          0          0          0          1  22 8457
+1.78300E-014.00000E-04          0          0          6          0  22 8457
+5.69625E+064.04566E+052.98957E+042.98957E+030.00000E+000.00000E+00  22 8457
+1.50000E+00-1.0000E+00          0          0         12          2  22 8457
+1.00000E+000.00000E+001.36060E+072.00000E+035.05000E-015.00000E-02  22 8457
+1.50000E+000.00000E+001.19410E+073.00000E+034.95000E-015.00000E-02  22 8457
+0.00000E+001.00000E+00          0          0          6          5  22 8457
+1.00000E+000.00000E+005.69625E+064.04566E+050.00000E+000.00000E+00  22 8457
+2.32000E+063.00000E+04          0          0          6          0  22 8457
+1.00000E+001.00000E+004.00000E-025.00000E-030.00000E+000.00000E+00  22 8457
+5.67000E+068.20000E+04          0          0          6          0  22 8457
+1.00000E+001.00000E+001.50000E-025.00000E-030.00000E+000.00000E+00  22 8457
+1.08300E+071.22000E+05          0          0          6          0  22 8457
+1.00000E+001.00000E+001.00000E-012.00000E-020.00000E+000.00000E+00  22 8457
+1.11770E+073.00000E+03          0          0          6          0  22 8457
+1.00000E+001.00000E+003.40000E-014.00000E-020.00000E+000.00000E+00  22 8457
+1.36060E+072.00000E+03          0          0          6          0  22 8457
+1.00000E+001.00000E+005.05000E-015.00000E-020.00000E+000.00000E+00  22 8457
+                                                                    22 8  0
+                                                                    22 0  0
+ 0.000000+0 0.000000+0          0          0          0          0   0 0  0
+                                                                    -1 0  0

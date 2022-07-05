@@ -1,0 +1,37 @@
+ $Rev:: 1450     $  $Date:: 2018-01-17#$                             1 0  0
+ 7.519300+4 1.913098+2         -1          0          0          02759 1451
+ 0.000000+0 1.000000+0          0          0          0          62759 1451
+ 0.000000+0 0.000000+0          0          0          4          82759 1451
+ 0.000000+0 0.000000+0          0          0         19          22759 1451
+ 75-Re-193  NNDC       EVAL-APR11 Conversion from N. Wallet Cards 2759 1451
+ /ENSDF/              DIST-FEB18                       20111222   2759 1451
+----ENDF/B-VIII.0     Material 2759                               2759 1451
+-----RADIOACTIVE DECAY DATA                                       2759 1451
+------ENDF-6 FORMAT                                               2759 1451
+*********************** Begin Description *********************** 2759 1451
+**         ENDF/B-VII.1 RADIOACTIVE DECAY DATA FILE            ** 2759 1451
+** Produced at the NNDC from the Nuclear Wallet Cards database ** 2759 1451
+**                      Author: J.K. Tuli                      ** 2759 1451
+**               Translated into ENDF format by:               ** 2759 1451
+**    T.D. Johnson, E.A. McCutchan and A.A. Sonzogni, 2011     ** 2759 1451
+***************************************************************** 2759 1451
+Parent Excitation Energy: 0.0000                                  2759 1451
+Parent Spin & Parity:?                                            2759 1451
+Parent half-life: ?                                               2759 1451
+Decay Mode:B-=100.00%                                             2759 1451
+Calculated half-life using <sb>=9.75E-3, which is the average     2759 1451
+beta strength function for the neighboring nuclides.              2759 1451
+************************ End Description ************************ 2759 1451
+                                1        451         25          02759 1451
+                                8        457          5          02759 1451
+ 0.000000+0 0.000000+0          0          0          0          02759 1  0
+                                                                  2759 0  0
+ 7.519300+4 1.913098+2          0          0          0          02759 8457
+ 5.190000+1 1.000000+0          0          0          6          02759 8457
+ 1.060000+6 0.000000+0 1.060000+6 0.000000+0 0.000000+0 0.000000+02759 8457
+ -7.77770+1 0.000000+0          0          0          6          12759 8457
+ 1.000000+0 0.000000+0 3.180000+6 0.000000+0 1.000000+0 0.000000+02759 8457
+                                                                  2759 8  0
+                                                                  2759 0  0
+ 0.000000+0 0.000000+0          0          0          0          0   0 0  0
+                                                                    -1 0  0

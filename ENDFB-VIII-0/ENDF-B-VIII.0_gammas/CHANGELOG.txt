@@ -1,0 +1,50 @@
+ENDF/B-VIII.0 Change Log
+========================
+
+Author: D.A. Brown, NNDC, BNL
+Affiliation: NNDC, Brookhaven National Laboratory
+
+ENDF/B-VIII.0 Final (2 Feb 2018)
+--------------------------------
+
+* Update ENDF header and distribution date in all files
+
+
+ENDF/B-VIII.0beta4.1 (2 Sep 2017)
+--------------------------------
+
+* Correct documentation in a few evaluations
+
+
+ENDF/B-VIII.0beta4 (28 Feb 2017)
+--------------------------------
+
+* No Changes since beta2
+
+
+ENDF/B-VIII.0beta3 (1 Nov 2016)
+--------------------------------
+
+* No Changes since beta2
+
+
+ENDF/B-VIII.0beta2 (19 Aug 2016)
+--------------------------------
+
+* Lower upper energy bound from unphysical value (14E14 eV) to more
+  reasonable 14E8 eV in g-007_N_014.endf
+
+
+ENDF/B-VIII.0beta1 (25 Apr 2016)
+--------------------------------
+
+* No changes since beta0
+
+
+ENDF/B-VIII.0beta0 (8 Apr 2016)
+-------------------------------
+
+* Fix the outgoing recoil proton from d(g,n')p reaction in g-001_H_002.endf
+  so it spans the full energy range of the cross section
+
+* Set LFI flag (because it fizzes) for g-090_Th_232.endf

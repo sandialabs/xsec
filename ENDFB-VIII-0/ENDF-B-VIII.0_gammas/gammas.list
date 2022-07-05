@@ -1,0 +1,167 @@
+----------------------------------------------------------------------------
+  #     Material Lab.       Date       Authors                           MAT
+----------------------------------------------------------------------------
+   1)   1-H -  2 LANL       EVAL-JAN05 G.Hale                            128
+   2)   4-Be-  9 CNDC       EVAL-DEC98 B.YU, J.ZHANG, Y.HAN              425
+   3)   6-C - 12 LANL       EVAL-OCT99 M.CHADWICK,P.YOUNG                625
+   4)   6-C - 13 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                    628
+   5)   7-N - 14 KAERI      EVAL-Dec99 HAN,LEE,OBLOZINSKY,CHADWICK       725
+   6)   7-N - 15 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                    728
+   7)   8-O - 16 LANL       EVAL-NOV99 M.CHADWICK,P.YOUNG                825
+   8)   8-O - 17 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                    828
+   9)   8-O - 18 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                    831
+  10)  11-Na- 23 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1125
+  11)  12-Mg- 24 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1225
+  12)  12-Mg- 25 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1228
+  13)  12-Mg- 26 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1231
+  14)  13-Al- 27 LANL       EVAL-DEC99 M.CHADWICK,P.YOUNG               1325
+  15)  14-Si- 28 LANL       EVAL-NOV99 M.CHADWICK,P.YOUNG               1425
+  16)  14-Si- 29 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1428
+  17)  14-Si- 30 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1431
+  18)  16-S - 32 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1625
+  19)  16-S - 33 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1628
+  20)  16-S - 34 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1631
+  21)  16-S - 36 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1637
+  22)  17-Cl- 35 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1725
+  23)  17-Cl- 37 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1731
+  24)  18-Ar- 36 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1825
+  25)  18-Ar- 38 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1831
+  26)  18-Ar- 40 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   1837
+  27)  20-Ca- 40 LANL       EVAL-DEC98 M.CHADWICK,P.YOUNG               2025
+  28)  20-Ca- 42 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2031
+  29)  20-Ca- 43 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2034
+  30)  20-Ca- 44 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2037
+  31)  20-Ca- 46 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2043
+  32)  20-Ca- 48 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2049
+  33)  22-Ti- 46 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2225
+  34)  22-Ti- 47 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2228
+  35)  22-Ti- 48 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2231
+  36)  22-Ti- 49 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2234
+  37)  22-Ti- 50 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2237
+  38)  23-V - 51 CNDC       EVAL-APR98 B.YU, Y,HAN, J.ZHANG             2328
+  39)  24-Cr- 50 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2425
+  40)  24-Cr- 52 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2431
+  41)  24-Cr- 53 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2434
+  42)  24-Cr- 54 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2437
+  43)  25-Mn- 55 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2525
+  44)  26-Fe- 54 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2625
+  45)  26-Fe- 56 LANL       EVAL-SEP98 M.CHADWICK,P.YOUNG               2631
+  46)  26-Fe- 57 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2634
+  47)  26-Fe- 58 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2637
+  48)  27-Co- 59 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2725
+  49)  28-Ni- 58 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2825
+  50)  28-Ni- 60 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2831
+  51)  28-Ni- 61 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2834
+  52)  28-Ni- 62 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2837
+  53)  28-Ni- 64 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2843
+  54)  29-Cu- 63 LANL       EVAL-DEC99 M.CHADWICK,P.YOUNG               2925
+  55)  29-Cu- 65 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   2931
+  56)  30-Zn- 64 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3025
+  57)  30-Zn- 66 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3031
+  58)  30-Zn- 67 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3034
+  59)  30-Zn- 68 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3037
+  60)  30-Zn- 70 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3043
+  61)  32-Ge- 70 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3225
+  62)  32-Ge- 72 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3231
+  63)  32-Ge- 73 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3234
+  64)  32-Ge- 74 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3237
+  65)  32-Ge- 76 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3243
+  66)  38-Sr- 84 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3825
+  67)  38-Sr- 86 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3831
+  68)  38-Sr- 87 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3834
+  69)  38-Sr- 88 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3837
+  70)  38-Sr- 90 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   3843
+  71)  40-Zr- 90 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4025
+  72)  40-Zr- 91 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4028
+  73)  40-Zr- 92 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4031
+  74)  40-Zr- 93 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4034
+  75)  40-Zr- 94 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4037
+  76)  40-Zr- 96 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4043
+  77)  41-Nb- 93 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4125
+  78)  41-Nb- 94 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4128
+  79)  42-Mo- 92 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4225
+  80)  42-Mo- 94 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4231
+  81)  42-Mo- 95 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4234
+  82)  42-Mo- 96 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4237
+  83)  42-Mo- 97 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4240
+  84)  42-Mo- 98 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4243
+  85)  42-Mo-100 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4249
+  86)  46-Pd-102 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4625
+  87)  46-Pd-104 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4631
+  88)  46-Pd-105 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4634
+  89)  46-Pd-106 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4637
+  90)  46-Pd-107 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4640
+  91)  46-Pd-108 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4643
+  92)  46-Pd-110 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4649
+  93)  47-Ag-107 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4725
+  94)  47-Ag-108 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4728
+  95)  47-Ag-109 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4731
+  96)  48-Cd-106 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4825
+  97)  48-Cd-108 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4831
+  98)  48-Cd-110 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4837
+  99)  48-Cd-111 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4840
+ 100)  48-Cd-112 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4843
+ 101)  48-Cd-113 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4846
+ 102)  48-Cd-114 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4849
+ 103)  48-Cd-116 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   4855
+ 104)  50-Sn-112 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5025
+ 105)  50-Sn-114 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5031
+ 106)  50-Sn-115 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5034
+ 107)  50-Sn-116 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5037
+ 108)  50-Sn-117 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5040
+ 109)  50-Sn-118 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5043
+ 110)  50-Sn-119 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5046
+ 111)  50-Sn-120 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5049
+ 112)  50-Sn-122 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5055
+ 113)  50-Sn-124 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5061
+ 114)  51-Sb-121 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5125
+ 115)  51-Sb-123 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5131
+ 116)  52-Te-120 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5225
+ 117)  52-Te-122 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5231
+ 118)  52-Te-123 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5234
+ 119)  52-Te-124 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5237
+ 120)  52-Te-125 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5240
+ 121)  52-Te-126 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5243
+ 122)  52-Te-128 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5249
+ 123)  52-Te-130 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5255
+ 124)  53-I -127 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5325
+ 125)  53-I -129 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5331
+ 126)  55-Cs-133 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5525
+ 127)  55-Cs-135 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5531
+ 128)  55-Cs-137 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5537
+ 129)  59-Pr-141 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   5925
+ 130)  62-Sm-144 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6225
+ 131)  62-Sm-147 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6234
+ 132)  62-Sm-148 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6237
+ 133)  62-Sm-149 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6240
+ 134)  62-Sm-150 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6243
+ 135)  62-Sm-151 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6246
+ 136)  62-Sm-152 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6249
+ 137)  62-Sm-154 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6255
+ 138)  65-Tb-158 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6522
+ 139)  65-Tb-159 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6525
+ 140)  67-Ho-165 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   6725
+ 141)  73-Ta-181 LANL       EVAL-APR99 M.CHADWICK,P.YOUNG               7328
+ 142)  74-W -180 CNDC       EVAL-DEC97 B.YU, Y,HAN, J.ZHANG             7425
+ 143)  74-W -182 CNDC       EVAL-DEC97 B.YU, Y,HAN, J.ZHANG             7431
+ 144)  74-W -183 CNDC       EVAL-DEC97 B.YU, Y,HAN, J.ZHANG             7434
+ 145)  74-W -184 LANL       EVAL-APR98 M.CHADWICK,P.YOUNG               7437
+ 146)  74-W -186 CNDC       EVAL-DEC97 B.YU, Y,HAN, J.ZHANG             7443
+ 147)  79-Au-197 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   7925
+ 148)  82-Pb-206 LANL       EVAL-DEC98 M.CHADWICK,P.YOUNG               8231
+ 149)  82-Pb-207 LANL       EVAL-DEC98 M.CHADWICK,P.YOUNG               8234
+ 150)  82-Pb-208 LANL       EVAL-SEP98 M.CHADWICK,P.YOUNG               8237
+ 151)  83-Bi-209 KAERI      EVAL-DEC99 Y.HAN,Y.-O.LEE                   8325
+ 152)  90-Th-232 CJD        EVAL-FEB98 BLOKHIN A.I. ET AL.              9040
+ 153)  92-U -233 CJD        EVAL-FEB98 BLOKHIN A.I. ET AL.              9222
+ 154)  92-U -234 CJD        EVAL-FEB99 BLOKHIN A.I. ET AL.              9225
+ 155)  92-U -235 LANL       EVAL-AUG05 M.GIACRI,D.RIDIKAS,M.CHADWICK    9228
+ 156)  92-U -236 CJD        EVAL-FEB99 BLOKHIN A.I. ET AL.              9231
+ 157)  92-U -238 LANL       EVAL-AUG05 M.GIACRI,D.RIDIKAS,M.CHADWICK    9237
+ 158)  93-Np-237 LANL       EVAL-AUG05 M.GIACRI, D.RIDIKAS, M.CHADWICK  9346
+ 159)  94-Pu-238 CJD        EVAL-FEB99 BLOKHIN A.I. ET AL.              9434
+ 160)  94-Pu-239 LANL       EVAL-NOV05 M.GIACRI, D.RIDIKAS, M.CHADWICK  9437
+ 161)  94-Pu-240 LANL       EVAL-JUN05 M.GIACRI, D.RIDIKAS, M.CHADWICK  9440
+ 162)  94-Pu-241 CJD        EVAL-FEB99 BLOKHIN A.I. ET AL.              9443
+ 163)  95-Am-241 LANL       EVAL-SEP05 M.GIACRI, D.RIDIKAS, M.CHADWICK  9543
+----------------------------------------------------------------------------

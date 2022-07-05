@@ -1,0 +1,53 @@
+----------------------------------------------------------------------------
+  #     Material Lab.       Date       Authors                           MAT
+----------------------------------------------------------------------------
+   1)   1-H -  1 LANL       EVAL-FEB98 G.HALE                            125
+   2)   1-H -  2 LANL       EVAL-FEB97 P.G.YOUNG,G.M.HALE,M.B.CHADWICK   128
+   3)   1-H -  3 LANL       EVAL-SEP01 G. M. HALE                        131
+   4)   2-He-  3 LANL       EVAL-OCT83 G.HALE                            225
+   5)   2-He-  4 LLNL       EVAL-DEC99 R.M.White,D.A.Resler,S.I.Warshaw  228
+   6)   3-Li-  6 LANL       EVAL-AUG01  G.M.HALE                         325
+   7)   3-Li-  7 LLNL       EVAL-SEP10 P. Navratil, D.A. Brown           328
+   8)   4-Be-  9 LANL       EVAL-NOV88 P.G.Young, E.D.Arthur             425
+   9)   5-B - 10 LANL       EVAL-AUG05   P.R.PAGE                        525
+  10)   6-C - 12 LANL       EVAL-JUN96 M.B.CHADWICK AND P.G.YOUNG        625
+  11)   6-C - 13 LANL       EVAL-DEC04  P.R.PAGE                         628
+  12)   7-N - 14 LANL       EVAL-AUG97 M.B.CHADWICK & P.G.YOUNG          725
+  13)   8-O - 16 LANL       EVAL-JUN96 M.B.CHADWICK AND P.G.YOUNG        825
+  14)  13-Al- 27 LANL       EVAL-FEB97 M.B.CHADWICK & P.G.YOUNG         1325
+  15)  14-Si- 28 LANL       EVAL-JUN97 M.B.CHADWICK & P.G.YOUNG         1425
+  16)  14-Si- 29 LANL       EVAL-JUN97 M.B.CHADWICK & P.G.YOUNG         1428
+  17)  14-Si- 30 LANL       EVAL-JUN97 M.B.CHADWICK & P.G.YOUNG         1431
+  18)  15-P - 31 LANL       EVAL-DEC97 M.CHADWICK,P.YOUNG               1525
+  19)  20-Ca- 40 LANL       EVAL-MAR97 M.B.CHADWICK & P.G.YOUNG         2025
+  20)  24-Cr- 50 LANL       EVAL-OCT97 S.CHIBA,M.CHADWICK,P.YOUNG       2425
+  21)  24-Cr- 52 LANL       EVAL-OCT97 S.CHIBA,M.CHADWICK,P.YOUNG       2431
+  22)  24-Cr- 53 LANL       EVAL-OCT97 S.CHIBA,M.CHADWICK,P.YOUNG       2434
+  23)  24-Cr- 54 LANL       EVAL-OCT97 S.CHIBA,M.CHADWICK,P.YOUNG       2437
+  24)  26-Fe- 54 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING2625
+  25)  26-Fe- 56 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING2631
+  26)  26-Fe- 57 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING2634
+  27)  28-Ni- 58 LANL       EVAL-SEP97 CHIBA,CHADWICK,YOUNG,KONING      2825
+  28)  28-Ni- 60 LANL       EVAL-SEP97 CHIBA,CHADWICK,YOUNG,KONING      2831
+  29)  28-Ni- 61 LANL       EVAL-SEP97 CHIBA,CHADWICK,YOUNG,KONING      2834
+  30)  28-Ni- 62 LANL       EVAL-SEP97 CHIBA,CHADWICK,YOUNG,KONING      2837
+  31)  28-Ni- 64 LANL       EVAL-SEP97 CHIBA,CHADWICK,YOUNG,KONING      2843
+  32)  29-Cu- 63 LANL       EVAL-FEB98 A.KONING,M.CHADWICK,P.YOUNG      2925
+  33)  29-Cu- 65 LANL       EVAL-FEB98 A.KONING,M.CHADWICK,P.YOUNG      2931
+  34)  41-Nb- 93 LANL       EVAL-DEC97 M.CHADWICK,P.YOUNG               4125
+  35)  74-W -182 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG           7431
+  36)  74-W -183 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG           7434
+  37)  74-W -184 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG           7437
+  38)  74-W -186 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG           7443
+  39)  80-Hg-196 LANL       EVAL-FEB98 S.CHIBA, M.CHADWICK,P.YOUNG      8025
+  40)  80-Hg-198 LANL       EVAL-FEB98 S.CHIBA, M.CHADWICK,P.YOUNG      8031
+  41)  80-Hg-199 LANL       EVAL-FEB98 M.CHADWICK,S.CHIBA,P.YOUNG       8034
+  42)  80-Hg-200 LANL       EVAL-FEB98 M.CHADWICK,S.CHIBA,P.YOUNG       8037
+  43)  80-Hg-201 LANL       EVAL-FEB98 S.CHIBA,M.CHADWICK,P.YOUNG       8040
+  44)  80-Hg-202 LANL       EVAL-FEB98 M.CHADWICK,S.CHIBA,P.YOUNG       8043
+  45)  80-Hg-204 LANL       EVAL-FEB98 S.CHIBA,M.CHADWICK,P.YOUNG       8049
+  46)  82-Pb-206 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING8231
+  47)  82-Pb-207 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING8234
+  48)  82-Pb-208 LANL       EVAL-OCT96 M.B.CHADWICK,P.G.YOUNG,A.J.KONING8237
+  49)  83-Bi-209 LANL       EVAL-JUL98 M.B. CHADWICK,P.G.YOUNG          8325
+----------------------------------------------------------------------------

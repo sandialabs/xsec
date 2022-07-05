@@ -1,0 +1,54 @@
+ $Rev:: 1450     $  $Date:: 2018-01-17#$                             1 0  0
+ 1.503300+4 3.268848+1         -1          0          0          0 236 1451
+ 0.000000+0 1.000000+0          0          0          0          6 236 1451
+ 0.000000+0 0.000000+0          0          0          4          8 236 1451
+ 0.000000+0 0.000000+0          0          0         32          2 236 1451
+ 15-P - 33  BNL        EVAL-NOV05 Conversion from ENSDF            236 1451
+ /ENSDF/              DIST-FEB18                       20111222    236 1451
+----ENDF/B-VIII.0     Material  236                                236 1451
+-----RADIOACTIVE DECAY DATA                                        236 1451
+------ENDF-6 FORMAT                                                236 1451
+*********************** Begin Description ***********************  236 1451
+**         ENDF/B-VII.1 RADIOACTIVE DECAY DATA FILE            **  236 1451
+**         Produced at the NNDC from the ENSDF database        **  236 1451
+**               Translated into ENDF format by:               **  236 1451
+**    T.D. Johnson, E.A. McCutchan and A.A. Sonzogni, 2011     **  236 1451
+*****************************************************************  236 1451
+ENSDF evaluation authors: JUN CHEN AND BALRAJ SINGH                236 1451
+Parent Excitation Energy: 0                                        236 1451
+Parent Spin & Parity: 1/2+                                         236 1451
+Parent half-life: 25.34 D 12                                       236 1451
+Decay Mode: B-                                                     236 1451
+************************ Energy  Balance ************************  236 1451
+Mean Gamma Energy:      0.000E0 +- 0.000E0 keV                     236 1451
+Mean X-Ray+511 Energy:  0.000E0 +- 0.000E0 keV                     236 1451
+Mean CE+Auger Energy:   0.000E0 +- 0.000E0 keV                     236 1451
+Mean B- Energy:         7.643E1 +- 3.900E-1 keV                    236 1451
+Mean B+ Energy:         0.000E0 +- 0.000E0 keV                     236 1451
+Mean Neutrino Energy:   1.721E2 +- 1.167E0 keV                     236 1451
+Mean Neutron Energy:    0.000E0 +- 0.000E0 keV                     236 1451
+Mean Proton Energy:     0.000E0 +- 0.000E0 keV                     236 1451
+Mean Alpha Energy:      0.000E0 +- 0.000E0 keV                     236 1451
+Mean Recoil Energy:     0.000E0 +- 0.000E0 keV                     236 1451
+Sum Mean Energies:      2.485E2 +- 1.231E0 keV                     236 1451
+Q effective:            2.485E2 keV                                236 1451
+Missing Energy:         0.000E0 keV                                236 1451
+Deviation:              0.000E0 %                                  236 1451
+************************ End Description ************************  236 1451
+                                1        451         38          0 236 1451
+                                8        457          9          0 236 1451
+ 0.000000+0 0.000000+0          0          0          0          0 236 1  0
+                                                                   236 0  0
+ 1.503300+4 3.268848+1          0          0          0          1 236 8457
+ 2.189376+6 1.036800+4          0          0          6          0 236 8457
+ 7.643000+4 3.900000+2 0.000000+0 0.000000+0 0.000000+0 0.000000+0 236 8457
+ 5.000000-1 1.000000+0          0          0          6          1 236 8457
+ 1.000000+0 0.000000+0 2.485000+5 1.100000+3 1.000000+0 0.000000+0 236 8457
+ 0.000000+0 1.000000+0          0          0          6          1 236 8457
+ 1.000000+0 0.000000+0 7.643000+4 3.900000+2 0.000000+0 0.000000+0 236 8457
+ 2.485000+5 1.100000+3          0          0          6          0 236 8457
+ 1.000000+0 1.000000+0 1.000000+0 0.000000+0 0.000000+0 0.000000+0 236 8457
+                                                                   236 8  0
+                                                                   236 0  0
+ 0.000000+0 0.000000+0          0          0          0          0   0 0  0
+                                                                    -1 0  0

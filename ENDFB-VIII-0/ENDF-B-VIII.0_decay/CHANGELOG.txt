@@ -1,0 +1,97 @@
+ENDF/B-VIII.0 Change Log
+========================
+
+Author: D.A. Brown, NNDC, BNL
+Affiliation: NNDC, Brookhaven National Laboratory
+
+ENDF/B-VIII.0 Final (2 Feb 2018)
+--------------------------------
+
+* Update ENDF header and distribution date in all files
+
+
+ENDF/B-VIII.0beta4.1 (2 Sep 2017)
+--------------------------------
+
+* Add NIST X-rays to many evaluations: dec-031_Ga_074.endf, dec-064_Gd_137.endf,
+  dec-068_Er_149m1.endf, dec-077_Ir_177.endf, dec-084_Po_203.endf, dec-086_Rn_209.endf,
+  dec-087_Fr_220.endf, dec-089_Ac_224.endf, dec-099_Es_253.endf, dec-102_No_256.endf,
+  dec-089_Ac_226.endf, dec-089_Ac_228.endf, dec-089_Ac_229.endf, dec-089_Ac_230.endf,
+  dec-089_Ac_231.endf, dec-089_Ac_232.endf, dec-089_Ac_233.endf, dec-091_Pa_229.endf,
+  dec-091_Pa_234.endf, dec-091_Pa_234m1.endf, dec-091_Pa_228.endf, dec-091_Pa_232.endf,
+  dec-091_Pa_236.endf, dec-091_Pa_237.endf, dec-092_U_226.endf, dec-092_U_227.endf,
+  dec-092_U_230.endf, dec-092_U_231.endf, dec-092_U_232.endf, dec-092_U_233.endf,
+  dec-092_U_234.endf, dec-092_U_235.endf, dec-092_U_236.endf, dec-092_U_237.endf,
+  dec-092_U_238.endf, dec-092_U_239.endf, dec-093_Np_232.endf, dec-093_Np_233.endf,
+  dec-093_Np_234.endf, dec-093_Np_235.endf, dec-093_Np_236.endf, dec-093_Np_236m1.endf,
+  dec-093_Np_237.endf, dec-093_Np_238.endf, dec-093_Np_239.endf, dec-093_Np_240.endf,
+  dec-093_Np_240m1.endf, dec-093_Np_241.endf, dec-093_Np_242.endf, dec-094_Pu_236.endf,
+  dec-094_Pu_237.endf, dec-094_Pu_237m1.endf, dec-094_Pu_238.endf, dec-094_Pu_239.endf,
+  dec-094_Pu_240.endf, dec-094_Pu_241.endf, dec-094_Pu_242.endf, dec-095_Am_238.endf,
+  dec-095_Am_239.endf, dec-095_Am_240.endf, dec-095_Am_241.endf, dec-095_Am_242.endf,
+  dec-095_Am_242m1.endf, dec-095_Am_243.endf, dec-096_Cm_240.endf, dec-096_Cm_242.endf,
+  dec-096_Cm_243.endf, dec-096_Cm_244.endf, dec-096_Cm_245.endf, dec-096_Cm_247.endf,
+  dec-055_Cs_142.endf
+
+* dec-094_Pu_238.endf, dec-093_Np_237.endf: wrong number of lines specified for documentation
+
+* dec-089_Ac_233.endf, dec-092_U_235.endf: didn't fit on punchcard
+
+* dec-007_N_016.endf, dec-003_Li_008.endf: Fix radiation type flags in the spectra so
+  they are associated with correct radiation
+
+* dec-079_Au_186.endf: corrected error in file: alpha specrum given, but the associated
+  decay path not specified.  So, added the corresponding RTYP using the very small BR
+  given in NuDat also, fixed the alpha energy out to inlcude recoil of the daughter as
+  per footnote in ENDF manual
+
+* dec-068_Er_145.endf: correctly marked as unstable
+
+* dec-068_Er_145.endf: remove line with incorrect line length
+
+* dec-055_Cs_141.endf: remove extra, out of order, point from the spectrum (it had zero
+  probability so it added nothing) (ok, that was a bad pun)
+
+* Fixed NLIB, NMOD, NREL & removed line numbers on many files
+
+
+ENDF/B-VIII.0beta4 (28 Feb 2017)
+--------------------------------
+
+* No Changes since beta3
+
+
+ENDF/B-VIII.0beta3.1 (18 Jan 2017)
+----------------------------------
+
+* No Changes since beta3
+
+
+ENDF/B-VIII.0beta3 (1 Nov 2016)
+--------------------------------
+
+* No Changes since beta1
+
+
+ENDF/B-VIII.0beta2 (19 Aug 2016)
+--------------------------------
+
+* No changes since beta1
+
+
+ENDF/B-VIII.0beta1 (25 Apr 2016)
+--------------------------------
+
+* No changes since beta0
+
+
+ENDF/B-VIII.0beta0 (8 Apr 2016)
+-------------------------------
+
+* Add new decays for dec-032_Ge_082.endf, dec-032_Ge_083.endf, dec-033_As_082.endf,
+  dec-033_As_086.endf, dec-035_Br_088.endf, dec-035_Br_089.endf, dec-035_Br_090.endf,
+  dec-035_Br_091.endf, dec-036_Kr_090.endf, dec-037_Rb_093.endf, dec-037_Rb_095.endf,
+  dec-037_Rb_096.endf, dec-038_Sr_095.endf, dec-039_Y_095.endf, dec-039_Y_098.endf,
+  dec-039_Y_098m1.endf, dec-039_Y_099.endf, dec-051_Sb_134.endf, dec-053_I_138.endf,
+  dec-055_Cs_140.endf, dec-055_Cs_141.endf, dec-056_Ba_143.endf, dec-057_La_143.endf,
+  dec-057_La_144.endf, dec-057_La_145.endf

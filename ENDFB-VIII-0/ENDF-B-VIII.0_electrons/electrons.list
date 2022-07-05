@@ -1,0 +1,104 @@
+----------------------------------------------------------------------------
+  #     Material Lab.       Date       Authors                           MAT
+----------------------------------------------------------------------------
+   1)   1-H -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        100
+   2)   2-He-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        200
+   3)   3-Li-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        300
+   4)   4-Be-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        400
+   5)   5-B -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        500
+   6)   6-C -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        600
+   7)   7-N -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        700
+   8)   8-O -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        800
+   9)   9-F -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                        900
+  10)  10-Ne-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1000
+  11)  11-Na-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1100
+  12)  12-Mg-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1200
+  13)  13-Al-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1300
+  14)  14-Si-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1400
+  15)  15-P -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1500
+  16)  16-S -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1600
+  17)  17-Cl-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1700
+  18)  18-Ar-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1800
+  19)  19-K -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       1900
+  20)  20-Ca-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2000
+  21)  21-Sc-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2100
+  22)  22-Ti-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2200
+  23)  23-V -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2300
+  24)  24-Cr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2400
+  25)  25-Mn-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2500
+  26)  26-Fe-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2600
+  27)  27-Co-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2700
+  28)  28-Ni-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2800
+  29)  29-Cu-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       2900
+  30)  30-Zn-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3000
+  31)  31-Ga-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3100
+  32)  32-Ge-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3200
+  33)  33-As-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3300
+  34)  34-Se-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3400
+  35)  35-Br-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3500
+  36)  36-Kr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3600
+  37)  37-Rb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3700
+  38)  38-Sr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3800
+  39)  39-Y -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       3900
+  40)  40-Zr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4000
+  41)  41-Nb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4100
+  42)  42-Mo-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4200
+  43)  43-Tc-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4300
+  44)  44-Ru-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4400
+  45)  45-Rh-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4500
+  46)  46-Pd-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4600
+  47)  47-Ag-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4700
+  48)  48-Cd-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4800
+  49)  49-In-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       4900
+  50)  50-Sn-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5000
+  51)  51-Sb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5100
+  52)  52-Te-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5200
+  53)  53-I -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5300
+  54)  54-Xe-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5400
+  55)  55-Cs-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5500
+  56)  56-Ba-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5600
+  57)  57-La-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5700
+  58)  58-Ce-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5800
+  59)  59-Pr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       5900
+  60)  60-Nd-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6000
+  61)  61-Pm-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6100
+  62)  62-Sm-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6200
+  63)  63-Eu-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6300
+  64)  64-Gd-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6400
+  65)  65-Tb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6500
+  66)  66-Dy-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6600
+  67)  67-Ho-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6700
+  68)  68-Er-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6800
+  69)  69-Tm-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       6900
+  70)  70-Yb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7000
+  71)  71-Lu-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7100
+  72)  72-Hf-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7200
+  73)  73-Ta-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7300
+  74)  74-W -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7400
+  75)  75-Re-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7500
+  76)  76-Os-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7600
+  77)  77-Ir-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7700
+  78)  78-Pt-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7800
+  79)  79-Au-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       7900
+  80)  80-Hg-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8000
+  81)  81-Tl-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8100
+  82)  82-Pb-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8200
+  83)  83-Bi-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8300
+  84)  84-Po-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8400
+  85)  85-At-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8500
+  86)  86-Rn-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8600
+  87)  87-Fr-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8700
+  88)  88-Ra-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8800
+  89)  89-Ac-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       8900
+  90)  90-Th-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9000
+  91)  91-Pa-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9100
+  92)  92-U -  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9200
+  93)  93-Np-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9300
+  94)  94-Pu-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9400
+  95)  95-Am-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9500
+  96)  96-Cm-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9600
+  97)  97-Bk-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9700
+  98)  98-Cf-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9800
+  99)  99-Es-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9900
+ 100) 100-Fm-  0 NDS,IAEA   Eval-Dec17 D.E.Cullen                       9920
+----------------------------------------------------------------------------

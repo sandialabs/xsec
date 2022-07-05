@@ -1,0 +1,67 @@
+ $Rev:: 1450     $  $Date:: 2018-01-17#$                             1 0  0
+ 3.008000+3 7.953570+0         -1          0          0          1  21 1451
+ 0.000000+0 1.000000+0          0          0          0          6  21 1451
+ 0.000000+0 0.000000+0          0          0          4          8  21 1451
+ 0.000000+0 0.000000+0          0          0         41          2  21 1451
+  3-Li-  8 HAR+WIN    EVAL-APR92 A.L. NICHOLS                       21 1451
+ NDS 148, 1 (2018)    DIST-FEB18                       20111222     21 1451
+----ENDF/B-VIII.0     MATERIAL   21                                 21 1451
+-----RADIOACTIVE DECAY DATA                                         21 1451
+------ENDF-6 FORMAT                                                 21 1451
+******************************************************************  21 1451
+**             JEFF-3.1 Radioactive Decay Data File             **  21 1451
+**          Compiled at the NEA Data Bank - Feb 2005            **  21 1451
+**             Original data taken from:  UKPADD64              **  21 1451
+******************************************************************  21 1451
+      F.AJZENBERG-SELOVE            NUCL PHYS A320(1979)1           21 1451
+      F.AJZENBERG-SELOVE            NUCL PHYS A490(1988)1           21 1451
+      W.F.HORNYAK ET AL             PHYS REV  77(1950)160           21 1451
+      R.BILWES ET AL              COMPT. REND 251(1960)1771         21 1451
+                                                                    21 1451
+          THE Q-VALUE FOR THE BETA DECAY OF LI-8 TO THE GROUND      21 1451
+      STATE OF BE-8 WAS TAKEN TO BE 16004(1)KEV. HOWEVER, LI-8      21 1451
+      BETA DECAY OCCURS ONLY TO THE FIRST EXCITED STATE OF BE-8     21 1451
+      (NUCLEAR LEVEL ENERGY OF 3040(30)KEV) TO GIVE A SINGLE        21 1451
+      BETA-PARTICLE ENERGY OF 12965(30)KEV. THE RESIDUE OF          21 1451
+      3040(30)KEV WAS ADDED TO BE-8(ALPHA) Q-VALUE OF 92KEV TO      21 1451
+      GIVE AN OVERALL Q-VALUE OF 3132(30)KEV FOR THE ALPHA          21 1451
+      ENERGY FROM THE FIRST EXCITED STATE OF BE-8. THUS, AN         21 1451
+      OVERALL LI-8(BETA,ALPHA) DECAY ENERGY OF 16097(1)KEV WAS      21 1451
+      DERIVED IN THE FORMULATION OF THE DECAY SCHEME.               21 1451
+                                                                    21 1451
+                                                                    21 1451
+      MEAN BETA- ENERGIES:-                                         21 1451
+   END POINT(MEV)=12.9650  SHAPE= 0  MEAN= 6.2376  INT= 1.0000      21 1451
+                                                                    21 1451
+      MEAN BETA- ENERGY              =   6204.6191  KEV             21 1451
+      BETA- + NEUTRINO ENERGY        =  12965.0000  KEV             21 1451
+      ALPHA ENERGY                   =   1566.0000  KEV             21 1451
+      RECOIL ENERGY                  =   1559.2543  KEV             21 1451
+      INTERNAL BREMSSTRAHLUNG ENERGY =     32.9831  KEV             21 1451
+      EFFECTIVE Q VALUE              =  16097.0000  KEV             21 1451
+      UNCERTAINTY IN EFFECTIVE Q (%) =      0.0062                  21 1451
+      CALCULATED Q VALUE             =  16090.2539  KEV             21 1451
+      % DEVIATION                    =      0.0419                  21 1451
+                                                                    21 1451
+   ENDF/B-VI DATA PRODUCED BY COGEND (A.TOBIAS DEC-1990).           21 1451
+                                1        451         47          1  21 1451
+                                8        457         13          1  21 1451
+ 0.000000+0 0.000000+0          0          0          0          0  21 1  0
+                                                                    21 0  0
+3.00800E+037.95357E+00          0          0          0          2  21 8457
+8.38000E-016.00000E-03          0          0          6          0  21 8457
+6.20462E+061.44468E+043.29831E+043.29831E+033.12525E+063.00004E+04  21 8457
+2.00000E+00 1.0000E+00          0          0          6          1  21 8457
+1.40000E+000.00000E+001.60970E+071.00000E+031.00000E+000.00000E+00  21 8457
+0.00000E+001.00000E+00          0          0          6          1  21 8457
+1.00000E+001.00000E-046.20462E+061.44468E+040.00000E+000.00000E+00  21 8457
+1.29650E+073.00000E+04          0          0          6          0  21 8457
+1.40000E+001.00000E+001.00000E+000.00000E+000.00000E+000.00000E+00  21 8457
+0.00000E+004.00000E+00          0          0          6          1  21 8457
+1.00000E+001.00000E-043.12525E+063.00004E+040.00000E+000.00000E+00  21 8457
+1.56600E+063.00000E+04          0          0          6          0  21 8457
+1.40000E+000.00000E+001.00000E+000.00000E+000.00000E+000.00000E+00  21 8457
+                                                                    21 8  0
+                                                                    21 0  0
+ 0.000000+0 0.000000+0          0          0          0          0   0 0  0
+                                                                    -1 0  0
